@@ -1,8 +1,8 @@
 // Data structure that will store the friends data
 var friendsArray = [
 	{
-		name: 'Scooter',
-		photo: 'http://cdn3-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-15.jpg',
+		name: 'Thor',
+		photo: 'https://images.immediate.co.uk/volatile/sites/3/2017/10/TRA2016_comp_v005_008088.1111-6cf2238.jpg?quality=45&resize=1240,826',
 		scores: [
 			'1',
 			'5',
@@ -17,8 +17,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Fluffy',
-		photo: 'https://i.ytimg.com/vi/mRf3-JkwqfU/hqdefault.jpg',
+		name: 'IronMan',
+		photo: 'https://www.screengeek.net/wp-content/uploads/2017/06/iron-man.png',
 		scores: [
 			'2',
 			'4',
@@ -33,8 +33,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Spencer',
-		photo: 'http://cdn3-www.cattime.com/assets/uploads/2011/08/best-kitten-names-1.jpg',
+		name: 'Thanos',
+		photo: 'https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/11/10/Pictures/_fea09362-e4d7-11e8-a684-a3b63261dee4.JPG',
 		scores: [
 			'4',
 			'3',
@@ -49,8 +49,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Zackariah',
-		photo: 'https://pbs.twimg.com/profile_images/562466745340817408/_nIu8KHX.jpeg',
+		name: 'Black Panther',
+		photo: 'https://pmcdeadline2.files.wordpress.com/2017/06/black-panther-teasera-1200x733.jpg?w=768&h=515&crop=1',
 		scores: [
 			'5',
 			'1',
@@ -65,8 +65,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Cloe',
-		photo: 'http://4.bp.blogspot.com/-HTvSYzA-pO4/UgQb4Zh_u0I/AAAAAAAAEuI/XwhtogT_1tA/s1600/3+cute2.jpg',
+		name: 'Rocket',
+		photo: 'https://media.deseretdigital.com/file/4a51715825?resize=width_1200&order=resize,crop&type=jpg&c=3&a=9ac95963',
 		scores: [
 			'1',
 			'1',
@@ -81,24 +81,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Mrs. Piggy',
-		photo: 'http://img.mindbodygreen.com/image/upload/c_limit,w_738,f_auto/ftr/Miss-Piggy-large-tonya-312.jpg',
-		scores: [
-			'1',
-			'1',
-			'5',
-			'1',
-			'3',
-			'2',
-			'5',
-			'1',
-			'1',
-			'5'
-		]
-	},
-	{
-		name: 'Beyonce Knowles',
-		photo: 'http://www.billboard.com/files/styles/article_main_image/public/media/beyonce-feb-2014-billboard-650.jpg',
+		name: 'SpiderMan',
+		photo: 'https://www.syfy.com/sites/syfy/files/styles/2280x1280/public/syfywire_blog_post/2018/09/marvels_spider-man.jpg?timestamp=1537193401',
 		scores: [
 			'5',
 			'4',
@@ -113,24 +97,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Adele Adkins',
-		photo: 'https://i1.imgiz.com/data/videoshots/6829/6829475-6461.jpg',
-		scores: [
-			'5',
-			'2',
-			'3',
-			'1',
-			'5',
-			'1',
-			'3',
-			'1',
-			'1',
-			'5'
-		]
-	},
-	{
-		name: 'Kermit the Frog',
-		photo: 'http://i.dailymail.co.uk/i/pix/2015/09/02/08/2BE5406100000578-3218820-image-m-25_1441179775589.jpg',
+		name: 'Captain Marvel',
+		photo: 'https://assets1.ignimgs.com/2018/12/03/brie-larson-captain-marvel-poster-blogroll-1543800383420_1280w.jpg',
 		scores: [
 			'5',
 			'5',
@@ -142,22 +110,6 @@ var friendsArray = [
 			'5',
 			'5',
 			'5'
-		]
-	},
-	{
-		name: 'Elmo',
-		photo: 'http://1rjm5qg4v8732kpmn44ya6bj-wpengine.netdna-ssl.com/wp-content/uploads/2012/11/elmo-6601.png',
-		scores: [
-			'1',
-			'1',
-			'1',
-			'1',
-			'1',
-			'1',
-			'1',
-			'1',
-			'1',
-			'1'
 		]
 	}
 ];
