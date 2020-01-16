@@ -1,5 +1,5 @@
 # FriendFinder
-#Week of 13 HW: Friend Finder - Node and Express Servers
+ Friend Finder - Node and Express Servers
 
 ### Objectives
 
@@ -49,26 +49,7 @@
 
 * Data in your application should be
 	* Saved as an array of objects.
-	* Each object should follow roughly the below format:
-
-		```
-		{
-		  "name":"Ahmed",
-		  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-		  "scores":[
-		     5,
-		     1,
-		     4,
-		     4,
-		     5,
-		     1,
-		     2,
-		     5,
-		     4,
-		     1
-	     	  ]
-		}
-   		```
+	
    		
 * Compatibility should be determined based on the following.
 	* Each user's results should be converted into a simple array of numbers (ex: [5, 1, 4, 4, 5, 1, 2, 5, 4, 1]).
